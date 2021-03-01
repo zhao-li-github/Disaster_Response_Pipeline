@@ -1,7 +1,7 @@
 # Disaster Response Pipeline Project
 
 ### Summary:
-In this project, I aim to apply the data engineering skills learned in the Udacity Data Science Nanoprogram to analyze the tweets and text messages sent during disasters and build a supervised model to classify a message into various categories. The purpose to build such model is to help disaster response orgaizations to filter and pull out the most important/relevant messages to them. Two pipelines are built in this project: an ETL pipeline and an ML pipeline. Then, a web app provided by the course (and revised by me) will extract data to provide data visualization, and use the trained model to classify new messages.  
+In this project, I aim to apply the data engineering skills learned in the Udacity Data Science Nanoprogram to analyze the tweets and text messages sent during disasters and build a supervised model to classify a message into various categories. The purpose to build such model is to help disaster response organizations to filter and pull out the most important/relevant messages to them. Two pipelines are built in this project: an ETL pipeline and an ML pipeline. Then, a web app provided by the course (and revised by me) will extract data to provide data visualization, and use the trained model to classify new messages.  
 
 ### Content:
 1. "Data" folder:  
